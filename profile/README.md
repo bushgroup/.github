@@ -21,7 +21,7 @@ We share software tools developed in the lab, code and data associated with our 
 | Repository | Description |
 |---|---|
 | [mainspring](https://github.com/bushgroup/mainspring) | Interactive viewer and Python reader for UIMF ion mobility mass spectrometry files. Also enables live streaming of UIMF files during data acquisition. |
-| [clockwork](https://github.com/bushgroup/clockwork) | Control software for ion mobility mass spectrometers. Coordinates Modular Intelligent Power Supplies and a SA-220P digitize to enable complex experiments. |
+| [clockwork](https://github.com/bushgroup/clockwork) | Control software for ion mobility mass spectrometers. Coordinates Modular Intelligent Power Supplies and a SA-220P digitizer to enable complex experiments. |
 | [translational-temperature](https://github.com/bushgroup/translational-temperature) | Estimates the effective translational temperature of ions from ion trajectory simulations; companion to [doi:10.1021/jasms.6c00218](https://doi.org/10.1021/jasms.6c00218) |
 | [MOBCAL-2012](https://github.com/bushgroup/MOBCAL-2012) | Calculates collision cross sections; companion to [doi:10.1021/ac202625t](https://doi.org/10.1021/ac202625t) |
 
